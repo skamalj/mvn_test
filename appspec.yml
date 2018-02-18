@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /target/*.jar
+  - source: /target/wordcounthadoop.jar
     destination: /home/ec2-user
